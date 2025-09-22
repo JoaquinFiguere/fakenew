@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import MiCompPolitica from "./MiCompDeporte";
+import MiCompDeporte from "./MiCompDeporte";
 
 import "./index.css";
 
